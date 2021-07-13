@@ -16,3 +16,29 @@ $git remote add origin "github-link"
 #git push
 $git push [variable name] master
 $git push origin master
+
+
+
+#command that i was used:
+  710  cd Desktop/
+  711  nano Ansible.txt
+  712  git init Ansible.txt 
+  713  git init
+  714  git add Ansible.txt 
+  715  nano Ansible.txt
+  716  gedit Ansible.txt
+  717  nano Ansible.txt
+  718  ls
+  719  nano  git.txt 
+  720  rm Ansible.txt 
+  721  git add git.txt 
+  722  git commit -m "Git Basic Commands"
+  723  git push origin master
+  724  git --global-configure user.name "DNT96"
+  725  git config --global user.name "DNT96"
+  726  git config --global user.email "thakredipak1819@gmail.com"
+  727* 
+  728  git remote add origin https://github.com/DNT96/myper.git
+  729* git remote
+  730  git remote add DNT96 https://github.com/DNT96/DNT96.git
+  731  git push DNT96 master
