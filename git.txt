@@ -1,0 +1,18 @@
+Hi this dummy file.
+
+#first we initialise the git on directory.
+$git init
+#second: we create one file and add some data in it.
+$nano <file-name>
+#third: after creating file add that file in stageing mode, command is 
+$git add <file-name>
+#fourth: after adding file in stageing mode, commit that file.
+$git commit -m "commit-you-gave"
+#fifth add your github account here
+$git config --global user.name “[name]”
+$git config --global user.name “[email]”
+#git remote: git remote add [variable name] [Remote Server Link]
+$git remote add origin "github-link"
+#git push
+$git push [variable name] master
+$git push origin master
